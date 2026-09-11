@@ -1,0 +1,23 @@
+newmtl mat0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP428_0.png
+
+newmtl mat1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP428_1.png
+
+newmtl mat2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP428_2.png
+
+newmtl mat3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP428_3.png

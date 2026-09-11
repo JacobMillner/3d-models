@@ -1,0 +1,95 @@
+newmtl mat0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_0.png
+
+newmtl mat1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_1.png
+
+newmtl mat2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_2.png
+
+newmtl mat3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_3.png
+
+newmtl mat4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_4.png
+
+newmtl mat5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_5.png
+
+newmtl mat6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_6.png
+
+newmtl mat7
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_7.png
+
+newmtl mat8
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_8.png
+
+newmtl mat9
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_9.png
+
+newmtl mat10
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_10.png
+
+newmtl mat11
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_11.png
+
+newmtl mat12
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_12.png
+
+newmtl mat13
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_13.png
+
+newmtl mat14
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_14.png
+
+newmtl mat15
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP054_15.png

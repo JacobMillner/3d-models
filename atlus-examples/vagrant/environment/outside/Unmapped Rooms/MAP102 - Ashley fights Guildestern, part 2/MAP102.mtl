@@ -1,0 +1,41 @@
+newmtl mat0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_0.png
+
+newmtl mat1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_1.png
+
+newmtl mat2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_2.png
+
+newmtl mat3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_3.png
+
+newmtl mat4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_4.png
+
+newmtl mat5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_5.png
+
+newmtl mat6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+map_Kd MAP102_6.png
